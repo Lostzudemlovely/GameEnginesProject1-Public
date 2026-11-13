@@ -1,0 +1,60 @@
+# Unity-generated caches and local state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Local submission material and report tools
+/tmp/
+/docs/
+/output/
+/Tools/build_report.py
+/Tools/package_submission.py
+*.[Pp][Dd][Ff]
+
+# Older local submission archives; sources are tracked as individual files
+/Assets.zip
+/Build.zip
+/Packages.zip
+/ProjectSettings.zip
+
+# Build output
+/[Bb]uild/
+/[Bb]uilds/
+
+# IDE-generated files
+/.vs/
+/.vscode/
+/.idea/
+/.gradle/
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports and OS files
+sysinfo.txt
+*.stackdump
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Keep Assets (including .meta files), Packages and ProjectSettings in Git.
